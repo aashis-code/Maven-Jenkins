@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>From about page</h1>
-<a href="contactUs.jsp">About Page</a>
+<h1> Hello from contact us page.</h1>
+<a href="about.jsp">About Page</a>
 </body>
 </html>
